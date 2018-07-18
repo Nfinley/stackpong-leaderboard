@@ -7,6 +7,7 @@ import './app.global.css';
 
 // setup fake backend (from login flow)
 import { configureFakeBackend } from './helpers';
+
 configureFakeBackend();
 
 const store = configureStore();

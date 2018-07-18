@@ -1,5 +1,5 @@
 {
-  "name": "SPUDS-Learning-App",
+  "name": "stackpong-ping-pong-leaderboard",
   "productName": "ElectronReact",
   "version": "0.13.2",
   "description": "Electron application boilerplate based on React, React Router, Webpack, React Hot Loader for rapid application development",
@@ -78,9 +78,9 @@
     "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
   },
   "author": {
-    "name": "C. T. Lin",
-    "email": "chentsulin@gmail.com",
-    "url": "https://github.com/chentsulin"
+    "name": "Nigel Finley",
+    "email": "nfinleymusic@gmail.com",
+    "url": "https://github.com/nfinley"
   },
   "license": "MIT",
   "bugs": {
@@ -189,8 +189,10 @@
   "dependencies": {
     "devtron": "^1.4.0",
     "electron-debug": "^1.5.0",
+    "firebase": "^5.2.0",
     "font-awesome": "^4.7.0",
     "history": "^4.7.2",
+    "prettier": "^1.13.7",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-hot-loader": "^4.0.0-beta.13",
